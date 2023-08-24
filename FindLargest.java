@@ -6,7 +6,7 @@
 import java.util.*;
 
 
-public class FindLArgest
+public class FindLargest
 {
     public static int largest(int nums[])
 {
