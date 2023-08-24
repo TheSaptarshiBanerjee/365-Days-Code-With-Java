@@ -1,5 +1,5 @@
 /**
- * test
+ * Find Desired Name from the Array
  */
 import java.util.*;
 public class findName {
