@@ -1,6 +1,6 @@
 /******************************************************************************
 
-                         Find largest number in the given Array
+                         Find largest number in the given Array.
 
 *******************************************************************************/
 import java.util.*;
